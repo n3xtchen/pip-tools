@@ -353,7 +353,7 @@ selected for production in `requirements.txt`.
 
 ```
 # dev-requirements.in
--c requirements.txt
+-r requirements.txt
 django-debug-toolbar<2.2
 ```
 
